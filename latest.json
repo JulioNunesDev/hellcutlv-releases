@@ -1,13 +1,11 @@
 {
- "version": "1.0.2",
+ "version": "1.0.3",
  "date": "2026-11-23",
  "notes": [
-  "Atualização com 1 clique: a partir desta versão o HELLCUTLV baixa as versões novas sozinho e mostra \"Atualizar agora\" — fecha, instala e abre de novo, sem perder nada.",
-  "Calendário com horas: nova visão \"Semana (horas)\" — arraste um post para mudar o dia E a hora (de 15 em 15 min), com o mouse ou com o dedo no celular.",
-  "A atualização só instala arquivos assinados pelo HELLCUTLV (segurança contra arquivo trocado)."
+  "Instalação sem erro com o programa aberto: o instalador agora fecha sozinho o HELLCUTLV (inclusive o ícone perto do relógio) antes de copiar os arquivos — acabou o erro \"HELLCUTLV.ico … código 32\"."
  ],
- "url": "https://github.com/JulioNunesDev/hellcutlv-releases/releases/download/v1.0.2/HELLCUTLV-Setup.exe",
- "sha256": "e474cdd262c7c8d82b2c278745a656cc09ae798433362c66575b281cac89bdef",
- "size": 315789503,
- "sig": "3OzABMY2fo-6IxxXYPgqX4Dubn17JEjQZC4yUasksmJ7htwj4h53zNuparsF5vLnjzLhdzJex35n4DwxBwcICQ"
+ "url": "https://github.com/JulioNunesDev/hellcutlv-releases/releases/download/v1.0.3/HELLCUTLV-Setup.exe",
+ "sha256": "3123812e2c3efa9481e1a8cfda8aa8369d7f720f20dd62467c79734cc3a4beca",
+ "size": 315807150,
+ "sig": "OmzthkMHRkiMRG7kEWmv5vAa074r31cxEX9TiLbi-MTJVo2M6j2joEwkRUwx20_HXzUk2GQSDzzArV0EiHjoDQ"
 }
