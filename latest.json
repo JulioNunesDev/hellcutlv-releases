@@ -1,15 +1,14 @@
 {
- "version": "1.0.5",
+ "version": "1.0.6",
  "date": "2026-11-24",
  "notes": [
-  "Teste gratuito com data e hora: quem recebeu um convite de teste vê no topo \"Teste até…\" e o acesso começa e termina sozinho na hora certa.",
-  "Virou cliente sem reinstalar: quando o teste vira chave vitalícia, o programa troca sozinho — cortes, contas e configurações continuam.",
-  "1 computador por chave: a chave fica no seu PC. Trocou de computador? Fale com o suporte e liberamos na hora.",
-  "Mais seguro: os robôs (postagem, Ao vivo, Caçador) param se a licença não estiver ativa.",
-  "Correções: conferência da licença mais rápida e com servidor de reserva."
+  "Acesso do seu plano: o programa passa a receber, de forma segura, as funcionalidades, redes e limites liberados para a sua chave (ex.: mais contas por rede sem trocar de chave).",
+  "Membros com permissões: se você criou membros no programa, cada um vê só o que foi liberado para ele.",
+  "Avisos claros: quando algo não está liberado, aparece \"🔒\" com o motivo em vez de um erro.",
+  "Correções e melhorias na conferência da licença."
  ],
- "url": "https://github.com/JulioNunesDev/hellcutlv-releases/releases/download/v1.0.5/HELLCUTLV-Setup.exe",
- "sha256": "37b5a027f5933605801a9ced0d0a6b01e01745d0a9ba9d629672113b37e2a1cb",
- "size": 315866350,
- "sig": "CmDwXk1x4fFxCva4JAAQM0EgS9NRiF-ujLtPTi-QrgonTXpM_4nqGWi2SFSWzTnKhpNxe5-E7Sob9A-5TEkTAQ"
+ "url": "https://github.com/JulioNunesDev/hellcutlv-releases/releases/download/v1.0.6/HELLCUTLV-Setup.exe",
+ "sha256": "0311d85f917a6b18ba9fa0da5ea125ea904257ea8f7534b5bdd31e4040284205",
+ "size": 315866389,
+ "sig": "tn_dnmutaZETYpR6pWK_-lrzd2iOWHHO_6P3YzsEvFux_GmVXolnkbQeI8MHpYB7zPfGh6QF-443pwCnN7TvCA"
 }
