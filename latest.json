@@ -1,20 +1,15 @@
 {
- "version": "1.0.4",
- "date": "2026-11-23",
+ "version": "1.0.5",
+ "date": "2026-11-24",
  "notes": [
-  "Menu novo na lateral: tudo agrupado (Cortar, Revisar, Postar, Sistema), com nome e ícone; recolhe para só ícones e vira gaveta no celular.",
-  "Busca (Ctrl+K): ache qualquer função ou configuração digitando (ex.: \"canal novo\", \"narração\") — abre direto no lugar certo.",
-  "Editor AI: todos os cortes que o editor-chefe pediu para revisar numa página só (Liberar, Ajustar, Recusar) + aviso quando chega corte novo.",
-  "Voltar e Esc: botão Voltar no topo e a tecla Esc voltam para a tela anterior.",
-  "Botões ↑ e ↓: sobe para o topo ou desce para o final das páginas longas.",
-  "Login do Google numa janelinha: o programa não some mais ao conectar o YouTube/Instagram.",
-  "Atualização com barra de %: mostra MB baixados e o tempo que falta; minimize e continue usando o app.",
-  "Correção: a atualização em 1 clique ficava parada em \"1 a 2 minutos\" — agora instala de verdade.",
-  "Correção: clicar várias vezes no ícone perto do relógio abria várias janelas — agora traz a mesma janela.",
-  "Correção: colar o link de um CANAL em \"Acompanhar uma live\" travava o botão — agora acha a live no ar (e nunca fica girando para sempre)."
+  "Teste gratuito com data e hora: quem recebeu um convite de teste vê no topo \"Teste até…\" e o acesso começa e termina sozinho na hora certa.",
+  "Virou cliente sem reinstalar: quando o teste vira chave vitalícia, o programa troca sozinho — cortes, contas e configurações continuam.",
+  "1 computador por chave: a chave fica no seu PC. Trocou de computador? Fale com o suporte e liberamos na hora.",
+  "Mais seguro: os robôs (postagem, Ao vivo, Caçador) param se a licença não estiver ativa.",
+  "Correções: conferência da licença mais rápida e com servidor de reserva."
  ],
- "url": "https://github.com/JulioNunesDev/hellcutlv-releases/releases/download/v1.0.4/HELLCUTLV-Setup.exe",
- "sha256": "bc0e48de8fac6ca0125c3b4925a7a4d60f02309f44f25dddd2f10a03532e07fe",
- "size": 315850570,
- "sig": "gEuGU2yM-ZrpUjzeIR7n8E9Jx3kGW2Mu1Gzahlg5IvkRCd1ola1Q5N2KnhRRYDKJ9HENOjMjhmyk50LymR8sBg"
+ "url": "https://github.com/JulioNunesDev/hellcutlv-releases/releases/download/v1.0.5/HELLCUTLV-Setup.exe",
+ "sha256": "37b5a027f5933605801a9ced0d0a6b01e01745d0a9ba9d629672113b37e2a1cb",
+ "size": 315866350,
+ "sig": "CmDwXk1x4fFxCva4JAAQM0EgS9NRiF-ujLtPTi-QrgonTXpM_4nqGWi2SFSWzTnKhpNxe5-E7Sob9A-5TEkTAQ"
 }
