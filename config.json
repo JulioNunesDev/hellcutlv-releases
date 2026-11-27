@@ -1,11 +1,11 @@
 {
  "v": 1,
- "date": "2026-11-27T18:48:00+00:00",
- "yt_daily": 10,
+ "date": "2026-11-27T19:52:46+00:00",
+ "yt_daily": 4,
  "msg": "Limite temporário de 10 posts/dia no youtube até o Google liberar mais cota. Instagram e Tiktok seguem normal.",
  "kind": "warn",
  "lic_servers": [
   "https://hellcutlv-balcao.julionunesdev.workers.dev"
  ],
- "sig": "DLKh0FHG8X4uOUDzbpCjJ8F42KhpRiYBUW525Aq9nG95tgTwmgrupWyDnRy_Bhp391QYw2cKCsNW0yX_CksXAA"
+ "sig": "UPtCxInAhsw-TSQ_DAdBoewSrOKcguuj_7otP7eWLJlu1dmWHN3PHMmKmV3_8m67rHugDJXoj8r6HSXKQPmBBw"
 }
