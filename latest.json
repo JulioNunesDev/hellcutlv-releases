@@ -1,16 +1,16 @@
 {
- "version": "1.0.7",
- "date": "2026-11-24",
+ "version": "1.0.8",
+ "date": "2026-11-27",
  "notes": [
-  "Editor AI de verdade: a IA assiste cada corte pronto e acusa gancho fraco, menu do jogo na tela, tela parada, tela preta e final sem graça — com nota para gancho, narração, ritmo, visual e final.",
-  "Ele aprende com você: ao recusar um corte, marque o motivo. O Editor AI fica mais rigoroso nisso e os próximos cortes evitam o problema.",
-  "Chance de viralizar (🔥 %) em cada corte, que melhora com os resultados dos seus posts.",
-  "Ver vídeos da fila por conta: no Calendário, veja o que vai sair em cada canal e tire da fila o que não quiser (libera a vaga do dia).",
-  "Equipe separada: cada membro vê só os próprios pedidos, lives e postagens; o administrador vê tudo. Membro sem liberação não usa a narração, a dublagem nem a capa com IA.",
-  "Mais fácil: o novo pedido não se apaga ao trocar de página, e as etapas do corte aparecem também no celular."
+  "Formatos virais novos: título fixo o vídeo todo, seta no 1º segundo, carimbos (\"IMPOSSÍVEL\", \"BUGOU\"…), micro-cortes de 8–15 s, Top 5 da live, moldura de post e compilação de streamers.",
+  "O Editor AI conserta sozinho: o corte que ele segurou é refeito (começo mais forte, final no desfecho, mais ritmo) e fica a melhor versão. Ele também aprende o que dá views no seu canal.",
+  "Lives longas de até 12 horas: o programa baixa só os trechos que viram corte, muito mais rápido e leve.",
+  "Vários pedidos ao mesmo tempo, sem travar o PC, e as telas se atualizam sozinhas (sem F5).",
+  "Visual novo: página Início, Ao vivo com prévia da live, Ajuda com todas as funções e o Calendário mais claro.",
+  "Narração grátis pelo VoiceStudio (opcional): use a sua voz clonada sem gastar créditos do ElevenLabs."
  ],
- "url": "https://github.com/JulioNunesDev/hellcutlv-releases/releases/download/v1.0.7/HELLCUTLV-Setup.exe",
- "sha256": "75973e33b86484620a86a1228f8a07529ce89294dff3104cc1a6dccc0cbcdd02",
- "size": 315869844,
- "sig": "v1_27qEAEE18HlXt1R87LBj2XGHwAACtVja9y1-eGJ1v96JZ5LGIm4f_gMoJJTeG4MWf6U5O1Hef8_8Hnvv2AA"
+ "url": "https://github.com/JulioNunesDev/hellcutlv-releases/releases/download/v1.0.8/HELLCUTLV-Setup.exe",
+ "sha256": "26772cecc3ed1b61d270c98949244afa4dffdc44da6fd992265c85d4a5a3e380",
+ "size": 333519210,
+ "sig": "cTCtSGtDqAgCtLqS2B-lkYr7sEAjVtP7-1Ktz9xGxAeCux0t2pj5fr9agAPf6eCB-SoMDewrrMxUHGoahYqpAQ"
 }
